@@ -1,6 +1,6 @@
 {
   "maintenance_mode": false,
-  "update_required": true,
+  "update_required": false,
   "update_version": "1.0.9",
   "update_link": "https://example."
 }
