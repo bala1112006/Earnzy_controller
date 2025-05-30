@@ -1,5 +1,5 @@
 {
-  "maintenance_mode": false,
+  "maintenance_mode": true,
   "update_required": false,
   "update_version": "1.0.1",
   "update_link": "https://example.com"
